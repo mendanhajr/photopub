@@ -1,3 +1,3 @@
-# bonder
+# PhotoPub
 
-a [Sails](http://sailsjs.org) application
+a [Sails](http://sailsjs.org) based photo publishing application
