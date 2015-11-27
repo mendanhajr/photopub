@@ -7,7 +7,7 @@
  * For more information on how this works, check out the `README.md`
  * file that was generated in your `tasks` folder.
  *
- * WARNING:
+ * WARNING (quer dizer perigo aqui mano):
  * Unless you know what you're doing, you shouldn't change this file.
  * Check out the `tasks` directory instead.
  */
